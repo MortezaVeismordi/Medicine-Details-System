@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Introduction to the Medicine-Details-System, a Python-based application for managing drug information.">
     <title>Introduction to Medicine-Details-System</title>
-    <style>
+     <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
