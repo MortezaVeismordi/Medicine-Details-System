@@ -4,43 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Introduction to the Medicine-Details-System, a Python-based application for managing drug information.">
-    <title>Introduction to Medicine-Details-System</title>
-     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            text-align: left;
-            padding: 20px;
-            background-color: #f4f4f4;
-            margin: 0;
-        }
-        h1 {
-            color: #333;
-            margin-bottom: 20px;
-        }
-        p {
-            color: #555;
-            margin-bottom: 15px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-        }
-        .highlight {
-            color: #d63384;
-            font-weight: bold;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 30px;
-            font-size: 0.9em;
-            color: #777;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="container">
