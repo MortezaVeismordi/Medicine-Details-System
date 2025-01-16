@@ -30,3 +30,6 @@
     </div>
 </body>
 </html>
+
+# main.py is tk
+# mainVkiv is with kivy
