@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Introduction to Medicine-Details-System</title>
-<style>
-    body {
+       <style>
+         body {
         font-family: Arial, sans-serif;
         line-height: 1.6;
         text-align: left;
@@ -30,7 +30,7 @@
         color: #d63384;
         font-weight: bold;
     }
-</style>
+    </style>
 </head>
 <body>
     <div class="container">
