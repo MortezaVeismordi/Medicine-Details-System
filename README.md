@@ -26,7 +26,7 @@
         </p>
     </div>
     <div class="footer">
-        &copy; 2023 Medicine-Details-System. All rights reserved.
+        &copy; 2025 Medicine-Details-System. All rights reserved.
     </div>
 </body>
 </html>
